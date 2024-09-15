@@ -49,7 +49,7 @@ Follow the installation instructions on the web page.
 
 After installing the MCR, you can start INSTANT by double clicking
 `instant.exe`. Beware that there is sometimes an error on first startup.
-This is usually resolved by starting asecond time.
+This is usually resolved by starting a second time.
 
 ## Spike train data input sample files
 
