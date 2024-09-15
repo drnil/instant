@@ -1,4 +1,4 @@
-# Readme for the INSTANT Neuronal Spike-Train ANalysis Toolbox
+# The INSTANT Neuronal Spike-Train ANalysis Toolbox
 
 Martin Nilsson, RISE Research Institutes of Sweden (E-mail: instant@drnil.com)
 
