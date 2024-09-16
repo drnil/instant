@@ -22,7 +22,8 @@ as `instant-manual.pdf`.
 
 ## Code and installation
 
-The source code is available as the Base64-encoded ZIP-archive
+The source code is available as the ZIP archive `instant.zip` 
+or alternatively, as the Base64-encoded ZIP-archive
 `instant.txt`. This file can be decoded under
 the Microsoft Windows operating systems using the command
 
@@ -54,6 +55,7 @@ This is usually resolved by starting a second time.
 ## Spike train data input sample files
 
 Fourteen recorded sample spike trains are available in the
+ZIP archive `spike-train-data.zip` or alternatively, in the
 Base64-encoded ZIP archive `spike-train-data.txt`. These spike trains
 were recorded by Henrik Jörntell at the Department of Experimental
 Medical Science at Lund University.  The file can be decoded under the
