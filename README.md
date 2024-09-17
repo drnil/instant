@@ -57,14 +57,8 @@ This is usually resolved by starting a second time.
 For testing purposes, there is a file of synthetic spike train data,
 `synthetic-spike-train.txt`.
 
-Fourteen recorded sample spike trains are available in the
-ZIP archive `spike-train-data.zip` or alternatively, in the
-Base64-encoded ZIP archive `spike-train-data.txt`. These spike trains
-were recorded by [Henrik Jörntell at the Department of Experimental
-Medical Science at Lund University](https://portal.research.lu.se/en/persons/henrik-j%C3%B6rntell). The file can be decoded under the
-Microsoft Windows operating systems using the command
-
-    certutil -decode spike-train-data.txt spike-train-data.zip
+Fourteen recorded sample spike trains are available separately in the INSTANT data repository
+at [http://github.com/drnil/instant-data](http://github.com/drnil/instant-data).
 	
 ## Processed data output sample files
 
