@@ -64,7 +64,7 @@ milliseconds. A scale factor can be given in INSTANT.
 For testing purposes, there is a file of synthetic spike train data,
 `synthetic-spike-train.txt`.
 
-Metadata are saved as `.mat`-files and can be loaded sparately into INSTANT.
+Metadata are saved as `.mat`-files and can be loaded independently into INSTANT.
 
 Fourteen recorded sample spike trains are available separately
 at DOI [10.1103/physreve.103.022407](http://doi.org/10.1103/physreve.103.022407)
