@@ -66,9 +66,9 @@ For testing purposes, there is a file of synthetic spike train data,
 
 Metadata are saved as `.mat`-files and can be loaded sparately into INSTANT.
 
-Fourteen recorded sample spike trains are available separately in the INSTANT data repository
-at [https://journals.aps.org/pre/supplemental/10.1103/PhysRevE.103.022407](https://journals.aps.org/pre/supplemental/10.1103/PhysRevE.103.022407).
-Their metadata are also available in the same location.
+Fourteen recorded sample spike trains are available separately
+at DOI [10.1103/physreve.103.022407](http://doi.org/10.1103/physreve.103.022407)
+(click "Supplementary Material"). Metadata is also available in the same location.
 	
 ## Processed data output sample files
 
