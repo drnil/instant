@@ -13,7 +13,8 @@ implemented in MATLAB.
 The INSTANT software and data is part of the supplemental material for
 the article _Nilsson and Jörntell (2021): "Channel current
 fluctuations conclusively explain neuronal encoding of internal
-potential into spike trains"_, DOI:10.1103/physreve.103.022407.
+potential into spike trains"_, DOI:
+[10.1103/physreve.103.022407](http://doi.org/10.1103/physreve.103.022407).
 
 ## Manual
 
@@ -52,13 +53,22 @@ After installing the MCR, you can start INSTANT by double clicking
 `instant.exe`. Beware that there is sometimes an error on first startup.
 This is usually resolved by starting a second time.
 
-## Spike train data input sample files
+## Spike train data input format and sample files
+
+Input data for INSTANT are text files having one value
+on each line. This value can be either the length of an interspike
+interval (ISI) or the time when a spike occurred. INSTANT will
+automatically determine the type of file. The default time unit is
+milliseconds. A scale factor can be given in INSTANT.
 
 For testing purposes, there is a file of synthetic spike train data,
 `synthetic-spike-train.txt`.
 
+Metadata are saved as `.mat`-files and can be loaded sparately into INSTANT.
+
 Fourteen recorded sample spike trains are available separately in the INSTANT data repository
-at [http://github.com/drnil/instant-data](http://github.com/drnil/instant-data).
+at [https://journals.aps.org/pre/supplemental/10.1103/PhysRevE.103.022407](https://journals.aps.org/pre/supplemental/10.1103/PhysRevE.103.022407).
+Their metadata are also available in the same location.
 	
 ## Processed data output sample files
 
