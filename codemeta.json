@@ -4,7 +4,7 @@
     "applicationCategory": "Application",
     "author": [
         {
-            "id": "https://www.drnil.com",
+            "id": "0000-0002-7504-0328",
             "type": "Person",
             "affiliation": {
                 "type": "Organization",
@@ -51,3 +51,4 @@
     "issueTracker": "https://github.com/drnil/instant/issues",
     "referencePublication": "https://doi.org/10.1103/physreve.103.022407"
 }
+
